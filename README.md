@@ -1,1 +1,1 @@
-# -Roll-No---C---Rehan-Khan
+# 73-C-Language-Rehan-Khan
