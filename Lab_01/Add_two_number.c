@@ -1,11 +1,9 @@
 #include <stdio.h>
-int add(int a, int b) {
-   return a + b;
-}
 int main() {
-   int x, y;
+   int x, y, z;
    printf("REHAN KHAN \nEnter two integers: ");
    scanf("%d %d", &x, &y);
-   printf("Sum: %d\n", add(x, y));
+    z=x+y;
+   printf("Sum: %d\n", z);
    return 0;
 }
